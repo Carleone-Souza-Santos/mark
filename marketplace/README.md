@@ -21,3 +21,18 @@ Este é um projeto de e-commerce desenvolvido em React. O aplicativo permite que
 ### Personalizações
 
 Sinta-se à vontade para personalizar as partes que mencionam seu nome de usuário, o nome do repositório e qualquer outra informação específica que você gostaria de incluir. Isso garantirá que o README reflita exatamente o que você deseja compartilhar sobre o seu projeto!
+
+## Aviso
+
+**Antes de baixar e executar este projeto, é essencial que você tenha o Node.js e o npm instalados em sua máquina.** 
+
+Você pode verificar se já tem o Node.js instalado executando o seguinte comando no terminal:
+
+```bash
+node -v
+
+### Sugestões para o README
+
+Adicione esta seção logo após a introdução ou antes dos pré-requisitos, assim fica claro que é uma condição necessária para rodar o projeto.
+
+Se precisar de mais ajuda ou detalhes, é só avisar!
