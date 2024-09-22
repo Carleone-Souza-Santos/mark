@@ -17,7 +17,6 @@ Este é um projeto de e-commerce desenvolvido em React. O aplicativo permite que
 - **Tailwind CSS**: Para estilização rápida e responsiva.
 
 <img src="./src/assets/Macbook.png" alt="img-Macbook">
-<img src="./src/assets/iPhone.png" alt="img-Celular"  heigth="100px">
 
 ### Personalizações
 
