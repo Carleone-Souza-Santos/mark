@@ -18,3 +18,7 @@ Este é um projeto de e-commerce desenvolvido em React. O aplicativo permite que
 
 <img src="./src/assets/Macbook.png">
 <img src="./src/assets/iPhone.png">
+
+### Personalizações
+
+Sinta-se à vontade para personalizar as partes que mencionam seu nome de usuário, o nome do repositório e qualquer outra informação específica que você gostaria de incluir. Isso garantirá que o README reflita exatamente o que você deseja compartilhar sobre o seu projeto!
